@@ -1,0 +1,6 @@
+name: squaremap-chunk-borders
+version: ${version}
+main: net.earthmc.mapchunkborders.SquaremapChunkBorders
+author: Warriorrr
+depend: [squaremap, ChunkyBorder]
+folia-supported: true
