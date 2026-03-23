@@ -3,4 +3,5 @@ version: ${version}
 main: net.earthmc.mapchunkborders.SquaremapChunkBorders
 author: Warriorrr
 depend: [squaremap, ChunkyBorder]
+api-version: '1.21'
 folia-supported: true
